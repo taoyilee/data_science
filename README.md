@@ -1,4 +1,4 @@
-# Become a Data Scientist in 30 Days" companion materials
+# "Become a Data Scientist in 30 Days" companion materials
 
 Python code developed for the book "Become a Data Scientist in 30 Days"!
 This book is here to help you get your job done.
